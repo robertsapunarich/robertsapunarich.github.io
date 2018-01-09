@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Newspaper Renaissance"
+date:   2018-01-09
+categories: media, tech, mental health, culture
+---
+
+A [recent episode of Virtue in the Wasteland](http://www.virtueinthewasteland.com/episodes/2018/1/4/ep-266-the-yearbook-2017-in-review) mentioned the notion of a "newspaper renaissance" on the heels of a discussion about the anxiety induced by the perceived exigency of mobile news alerts.
+
+There seems to be increasing awareness and discussion surrounding the mentally and socially corrosive nature of social media. I haven't used Facebook for almost 5 years now, and removed myself from Twitter last year. I still maintain a private Instagram profile, but don't even have the app installed.
+
+I'm finding enjoyment in newspapers myself. The LA Times' e-newspaper is delivered to my inbox daily, and soon the print version of the Sunday edition will be delivered my front door. I don't read the whole thing, and I don't feel the need to. And, contrary to the designs devised by UX researchers for all of your favorite apps, it's not engineered to make me feel that need. In many ways, it's the antithesis of the algorithmically generated feed -- static, focused, and rhythmic. It's not perpetually updated or A/B tested. And in many (though not all) ways it feels like an antidote the to the malaise of a perpetual noise cycle.
