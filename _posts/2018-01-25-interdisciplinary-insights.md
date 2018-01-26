@@ -1,9 +1,9 @@
-- - - 
+--- 
 layout: post
 title:  “Interdisciplinary Insights”
 date:   2018-01-25
 categories: writing, programming, software development, interdisciplinary
-- - - 
+--- 
 Aside from blogging here, I’ve been trying to build my writing habit by working on a short story. I wrote some short stories while in college, and thoroughly enjoyed it.
 
 My best friend, Collin, writes quite a bit. He credits me with initially inspiring him to write, but he has since far surpassed me in quantity of output, and, I would argue, quality. Although he doesn’t code, he said he imagined storytelling and programming to be similar disciplines, or for there at least to be an overlap in skills and practice.
