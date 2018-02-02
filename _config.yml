@@ -2,7 +2,7 @@
 title: "Robert Sapunarich"
 description: "Personal website of Robert Sapunarich"
 baseurl: "" # begin with /repo-name if use as project, else leave empty for gh-pages
-url: "" # default is empty
+url: "https://robertsapunarich.com/" # default is empty
 author: "Robert Sapunarich"
 
 # Build settings
