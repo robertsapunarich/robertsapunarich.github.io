@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Against Nostalgia
-date:   2018-01-25
+date:   2018-02-01
 categories: culture, entertainment, storytelling
 ---
 
