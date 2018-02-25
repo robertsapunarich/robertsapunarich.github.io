@@ -37,7 +37,15 @@
     margin: 1rem;
     box-sizing: border-box;
     max-width: $max-width;
+    float:left
 }
+
+.blogroll {
+    position:relative;
+    float:right;
+    max-width:$max-width;
+}
+
 /**
  * Pages
  */
@@ -46,6 +54,10 @@
         margin-top: $spacing-unit;
         max-width: $max-width;
     }
+
+    position:relative;
+    float:left
+
 }
 
 .post-list > li {
