@@ -1,11 +1,9 @@
-# 2018-05-07-i’ve-been-everywhere
-#writing/blog
-- - - -
+---
 layout: post
 title:  I’ve been everywhere
 date:   2018-05-07
-categories: traveling
-- - - -
+categories: traveling, conferences
+---
 So it’s been over a month. Hello again.
 
 That having been said, I suppose the fact that I travelled across the country and back *twice* in the same month more than accounts my silence here. Pittsburgh for RailsConf one week, NYC for Mockingbird the next. Two cities for two very different conferences.
