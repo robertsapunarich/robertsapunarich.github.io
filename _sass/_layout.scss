@@ -52,6 +52,11 @@
     margin-bottom: $spacing-unit / 4;
     list-style-type: none;
     margin-left: -2rem;
+    border-bottom: 1px solid #eaeaea;
+
+    p {
+        margin-left: 5%;
+    }
 
     a,
     a:hover {
