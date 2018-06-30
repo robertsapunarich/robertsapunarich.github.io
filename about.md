@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Software Developer at [W+R Studios](http://wrstudios.com). Occasional writer. Husband to [Jenoa](http://www.jenoasaplin.com/). Contact: [robertsapunarich@gmail.com](mailto:robertsapunarich@gmail.com).
+Software Engineer at [W+R Studios](http://wrstudios.com). Occasional writer. Husband to [Jenoa](http://www.jenoasaplin.com/). Contact: [robertsapunarich@gmail.com](mailto:robertsapunarich@gmail.com).
