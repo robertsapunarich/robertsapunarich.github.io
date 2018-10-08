@@ -9,8 +9,8 @@ The popularity of single page applications (SPAs) has grown significantly in the
 
 [This article from Free Code Camp](https://medium.freecodecamp.org/the-terrible-performance-cost-of-cors-api-on-the-single-page-application-spa-6fcf71e50147) recently highlighted a potential performance cost associated with single page applications. I'll do my best to accurately and succinctly restate the problem presented in the article:
 
-* An SPA is served from `app.example.com`.
-* Our SPA consumes an API served from `api.example.com`.
+* A SPA is served from `app.example.com`.
+* The SPA consumes an API served from `api.example.com`.
 * [According to Mozilla developer network](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS),
 
 >Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP headers to tell a browser to let a web application running at one origin (domain) have permission to access selected resources from a server at a different origin. A web application makes a cross-origin HTTP request when it requests a resource that has a different origin (domain, protocol, and port) than its own origin.
