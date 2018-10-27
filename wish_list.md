@@ -12,7 +12,7 @@ $50 - $100
 
 [Tak Classic Set](https://worldbuildersmarket.com/collections/tak-a-beautiful-game/products/tak-classic-set?variant=20638169094)
 
-[Dungeons and Dragons Art and Arcana [Special Edition, Boxed Book & Ephemera Set]: A Visual History](https://www.amazon.com/Dungeons-Dragons-Arcana-Special-Ephemera/dp/0399582754/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0399582754&pd_rd_r=d67fa776-da02-11e8-bcf9-d56d64501878&pd_rd_w=1UCTP&pd_rd_wg=lnnuf&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=K87FWNYMZ94ZJQFRF8YX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=K87FWNYMZ94ZJQFRF8YX)
+[Dungeons and Dragons Art and Arcana (Special Edition): A Visual History](https://www.amazon.com/Dungeons-Dragons-Arcana-Special-Ephemera/dp/0399582754/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0399582754&pd_rd_r=d67fa776-da02-11e8-bcf9-d56d64501878&pd_rd_w=1UCTP&pd_rd_wg=lnnuf&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=K87FWNYMZ94ZJQFRF8YX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=K87FWNYMZ94ZJQFRF8YX)
 
 $25 - $50
 
