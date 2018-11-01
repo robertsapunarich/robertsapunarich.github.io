@@ -18,6 +18,8 @@ $25 - $50
 
 [Dungeons and Dragons Art and Arcana: A Visual History](https://www.amazon.com/Dungeons-Dragons-Art-Arcana-History/dp/0399580948/ref=sr_1_2?s=books&ie=UTF8&qid=1540656626&sr=1-2&keywords=art+and+arcana+d%26d)
 
+[The Books of Earthsea: The Complete Illustrated Edition](https://www.amazon.com/Books-Earthsea-Complete-Illustrated-Cycle/dp/1481465589/ref=sr_1_1?s=books&ie=UTF8&qid=1541098207&sr=1-1&keywords=books+of+earthsea&dpID=61MStmYq38L&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch)
+
 [Filson Outfitter t-shirt green XL](https://www.filson.com/short-sleeve-outfitter-solid-one-pocket-t-shirt-green.html#sku=11010861-fco-000000054)
 
 
