@@ -5,7 +5,7 @@ date:   2018-11-25
 categories: reading, politics, hospitality
 ---
 
-From [Joseph Ellis’s /Founding Brothers/](https://www.indiebound.org/book/9780375705243):
+From [Joseph Ellis’s _Founding Brothers_](https://www.indiebound.org/book/9780375705243):
 
 > The political dialogue within the highest echelon of the revolutionary generation was a decade-long shouting match.  
 
