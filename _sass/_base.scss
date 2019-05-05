@@ -89,6 +89,7 @@ h4,
 h5,
 h6 {
     font-weight: $base-font-weight;
+    font-family: $title-font-family;
 }
 /**
  * Links
@@ -105,7 +106,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color-dark;
+    color: $text-color;
     padding-left: $spacing-unit / 2;
     border-left: 2px solid $grey-color-light;
     font-style: italic;

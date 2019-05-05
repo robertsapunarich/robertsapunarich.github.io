@@ -8,15 +8,6 @@ layout: default
 		{% include intro.html %}
 	</section>
 	<section>
-		<ul class="post-list">
-			{% for post in site.posts %}
-			<li>
-				<h1>
-					<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-				</h1>
-				<p>{{post.content}}</p>
-			</li>
-			{% endfor %}
-		</ul>
+		
 	</section>
 </div>

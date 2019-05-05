@@ -6,6 +6,7 @@
 // Our variables
 $base-font-family: 'Merriweather', serif;
 $code-font-family: Inconsolata, Monaco, Consolas, monospace;
+$title-font-family: 'Josefin Sans', sans-serif;
 $base-font-size:   16px;
 $base-font-weight: normal;
 $small-font-size:  0.875rem;
@@ -13,9 +14,9 @@ $base-line-height: 1.5;
 
 $spacing-unit:     2rem;
 $max-width:        48rem;
-
-$text-color:       #fff;
-$background-color: #88985b;
+// ddd2af, 364722
+$text-color:       #e7ddbd;
+$background-color: #334221;
 $link-color:        $text-color;
 
 $grey-color:       #aaa;
@@ -41,7 +42,7 @@ $on-:              800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-		url(https://fonts.googleapis.com/css?family=Merriweather),
+		url(https://fonts.googleapis.com/css?family=Josefin+Sans|Merriweather),
         "base",
         "layout",
         "syntax-highlighting"
