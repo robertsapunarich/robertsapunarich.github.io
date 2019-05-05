@@ -16,7 +16,7 @@ $max-width:        48rem;
 
 $text-color:       #fff;
 $background-color: #88985b;
-$link-color:       #0645ad;
+$link-color:        $text-color;
 
 $grey-color:       #aaa;
 $grey-color-light: lighten($grey-color, 25%);
