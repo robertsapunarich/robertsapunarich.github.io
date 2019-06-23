@@ -2,7 +2,8 @@
 layout: post
 title:  June 2019 Update
 date:   2019-06-22
-categories: life
+tags: life
+categories: blog
 ---
 
 It feels like periodically I write these “it’s been a while, but been really busy and all you know how it goes” posts. That said, I feel like there’s some justification for the silence over the last few months.

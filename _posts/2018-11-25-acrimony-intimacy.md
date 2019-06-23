@@ -2,7 +2,8 @@
 layout: post
 title:  Acrimony & Intimacy
 date:   2018-11-25
-categories: reading, politics, hospitality
+tags: reading, politics, hospitality
+categories: blog
 ---
 
 From [Joseph Ellis’s _Founding Brothers_](https://www.indiebound.org/book/9780375705243):
