@@ -2,8 +2,7 @@
 layout: post
 title:  Space and Simplicity
 date:   2018-07-15
-tags: writing, spirituality, technology
-categories: blog
+categories: writing, spirituality, technology
 ---
 
 Here are a few quotes/links from [Alan Jacobs](https://blog.ayjay.org/)  and [Austin Kleon](https://austinkleon.com/), who are frequently in dialogue with one another, that have set the tone for my thoughts this week about a few things — namely blogging, information, and thinking.

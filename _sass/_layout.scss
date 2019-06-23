@@ -13,15 +13,15 @@
 .smallcap {
     //text-transform: lowercase;
     //font-variant: small-caps;
-    font-size: 3.5rem;
+    font-size: 1.5rem;
     font-weight: bold;
-    font-family: $title-font-family;
+
     a,
     a:hover {
         text-decoration: none;
         letter-spacing: 2px;
         // background-color: #333;
-        color: $text-color;
+        color: #000000;
         // padding-left: 0.5rem;
         padding-right: 0.5rem;
         padding-top: 0.2rem;
@@ -67,6 +67,7 @@
 
     time {
         font-size: $small-font-size;
+        color: $grey-color;
     }
     @include media-query($on-palm) {
         time {
@@ -137,9 +138,9 @@
   margin-top: $spacing-unit;
   font-size: $small-font-size;
   p {
-    color: $text-color;
+    color: $grey-color;
     a, a:visited {
-      color: $text-color;
+      color: $grey-color-dark;
     }
   }
 }

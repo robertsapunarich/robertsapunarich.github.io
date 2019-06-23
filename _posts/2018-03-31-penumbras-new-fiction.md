@@ -2,8 +2,7 @@
 layout: post
 title:  Penumbra’s New Fiction
 date:   2018-03-31
-tags: literature, web, culture
-categories: blog
+categories: literature, web, culture
 ---
 So this “blogging consistently” thing is really hard. Anyway, hope you’ve had a good March. Mine was great, albeit hectic. Family visiting, friends getting married, wife starting new job at W+R Studios (yes, we work together now). All wonderful things, that sometimes mean neglecting other activities, like writing here. I was hoping to do some holy week reflections, but even then, the ideas aren’t necessarily restricted to holy week. I have a list of blog ideas, that will be related to things I read or thought about days or even weeks ago. I’m terrible at the “hot take” or “real time” thing. Probably for the best.
 

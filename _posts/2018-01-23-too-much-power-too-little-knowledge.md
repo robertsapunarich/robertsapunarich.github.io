@@ -2,8 +2,7 @@
 layout: post
 title:  “Too much power, too little knowledge”
 date:   2018-01-23
-tags: reading, ruminating, software development, tech
-categories: blog
+categories: reading, ruminating, software development
 ---
 In “Damage”, from his collection *What Are People For?*, Wendell Berry writes—
 

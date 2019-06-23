@@ -2,8 +2,7 @@
 layout: post
 title:  To be self-forgetful
 date:   2018-05-24
-tags: reading, technology, spirituality, culture
-categories: blog
+categories: reading, technology, spirituality, culture
 ---
 From Alan Jacobs's essay, [Reverting to Type](http://blog.ayjay.org/reverting-to-type/):
 >In many respects, going back to the kinds of books I used to read has also meant going back to the kinds of reading habits I used to have. Just as there was a point in my life when I had to remind myself to grab that pencil, the time eventually came when I had to remind myself to leave it where it was and grasp the book (or the Kindle) in my two otherwise empty hands. The object now was not to prepare for class or develop a scholarly argument, but rather to become lost in a book, as I once was often; to be self-forgetful for a while.

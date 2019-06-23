@@ -2,8 +2,7 @@
 layout: post
 title:  The Good Enough To Shame the Great
 date:   2019-03-03
-tags: spirituality, theology, culture
-categories: blog
+categories: spirituality, theology, culture
 ---
 
 In a recent op-ed for the New York Times, Avram Alpert writes,

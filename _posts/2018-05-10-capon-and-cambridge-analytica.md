@@ -2,8 +2,7 @@
 layout: post
 title:  Capon and Cambridge Analytica
 date:   2018-05-10
-tags: reading, technology, spirituality, culture
-categories: blog
+categories: reading, technology, spirituality, culture
 ---
 From [Robert Farrar Capon’s recently republished marriage anti-advice book, *Bed & Board*](http://mbird.com/2018/05/announcing-bed-board-plain-talk-about-marriage-by-robert-farrar-capon/):
 
