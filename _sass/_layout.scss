@@ -67,7 +67,6 @@
 
     time {
         font-size: $small-font-size;
-        color: $grey-color;
     }
     @include media-query($on-palm) {
         time {
@@ -138,9 +137,9 @@
   margin-top: $spacing-unit;
   font-size: $small-font-size;
   p {
-    color: $grey-color;
+    color: $text-color;
     a, a:visited {
-      color: $grey-color-dark;
+      color: $text-color;
     }
   }
 }
