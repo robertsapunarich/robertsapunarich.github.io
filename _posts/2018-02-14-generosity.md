@@ -2,7 +2,8 @@
 layout: post
 title:  Generosity
 date:   2018-02-14
-categories: religious, reading, culture
+tags: religious, reading, culture
+categories: blog
 ---
 In *Free of Charge*, theologian Miroslav Volf writes, “Left unchecked, the slide away from generosity robs us of significant cultural achievements, on which our flourishing as individuals and communities depends” (15).
 

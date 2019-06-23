@@ -2,7 +2,8 @@
 layout: post
 title:  Messages In Bottles
 date:   2019-02-17
-categories: reading, technology, culture, web
+tags: reading, technology, culture, web
+categories: blog
 ---
 
 For those who know me, it’s no secret that I’m averse to social media and its black-box network effects. I think that much of the web as we currently experience it falls far short of its potential for meaningful and thoughtful communication. 
