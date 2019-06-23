@@ -2,8 +2,7 @@
 layout: post
 title:  “Interdisciplinary Insights”
 date:   2018-01-25
-tags: writing, programming, software development, interdisciplinary, tech
-categories: blog, techblog
+categories: writing, programming, software development, interdisciplinary
 --- 
 Aside from blogging here, I’ve been trying to build my writing habit by working on a short story. I wrote some short stories while in college, and thoroughly enjoyed it.
 

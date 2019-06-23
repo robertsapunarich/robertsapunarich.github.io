@@ -2,8 +2,7 @@
 layout: post
 title:  Favorite Reads of 2018
 date:   2018-12-25
-tags: reading
-categories: blog
+categories: reading
 ---
 
 I read a number of books this year, and as seems customary, I’ll share a few highlights. Since I’m traveling and don’t have my reading journal on hand, I’m sure I’m overlooking some. Nonetheless, here are a few that immediately spring to mind. 

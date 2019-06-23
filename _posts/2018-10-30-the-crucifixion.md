@@ -2,8 +2,7 @@
 layout: post
 title:  The Crucifixion
 date:   2018-10-30
-tags: reading
-categories: blog
+categories: reading
 ---
 
 So I finished [Fleming Rutledge's _The_ _Crucifixion_](https://www.eerdmans.com/Products/7534/the-crucifixion.aspx) today, and, yeah. I felt like I should write something about it, but I fear it's hard to do it justice.

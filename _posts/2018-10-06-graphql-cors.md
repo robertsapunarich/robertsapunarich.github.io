@@ -2,8 +2,7 @@
 layout: post
 title:  SPAs, CORS, and GraphQL
 date:   2018-10-06
-tags: technology tech
-categories: blog techblog
+categories: technology
 ---
 
 The popularity of single page applications (SPAs) has grown significantly in the world of web development over the last few years. As with any architectural choice, benefits and tradeoffs exist.

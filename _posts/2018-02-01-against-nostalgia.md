@@ -2,8 +2,7 @@
 layout: post
 title:  Against Nostalgia
 date:   2018-02-01
-tags: culture, entertainment, storytelling
-categories: blog
+categories: culture, entertainment, storytelling
 ---
 
 I’m starting to become less patient with nostalgia.

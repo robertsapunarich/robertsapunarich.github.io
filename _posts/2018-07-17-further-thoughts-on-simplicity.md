@@ -2,8 +2,7 @@
 layout: post
 title:  Further Thoughts on Simplicity
 date:   2018-07-17
-tags: spirituality
-categories: blog
+categories: spirituality
 ---
 
 Following up on the last post’s thoughts, I am finding myself more and more fascinated by the discipline of simplicity. I think it was in [the most recent episode of the Renovare podcast](https://renovare.org/podcast/episode-135-simplicity-mimi-dixon) that I heard it suggested that the discipline of simplicity isn’t so much a discipline we do as one we inhabit.
