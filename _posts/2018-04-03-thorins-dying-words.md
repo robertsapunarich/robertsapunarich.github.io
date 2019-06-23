@@ -2,7 +2,8 @@
 layout: post
 title:  Thorin’s Dying Words
 date:   2018-04-03
-categories: literature
+tags: literature
+categories: blog
 ---
 From J.R.R. Tolkien’s, *The Hobbit*—
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "Newspaper Renaissance"
 date:   2018-01-09
-categories: media, tech, mental health, culture
+tags: media, tech, mental health, culture
+categories: blog
 ---
 
 A [recent episode of Virtue in the Wasteland](http://www.virtueinthewasteland.com/episodes/2018/1/4/ep-266-the-yearbook-2017-in-review) mentioned the notion of a "newspaper renaissance" on the heels of a discussion about the anxiety induced by the perceived exigency of mobile news alerts.

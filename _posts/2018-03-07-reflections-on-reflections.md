@@ -2,7 +2,8 @@
 layout: post
 title:  Reflections on Reflections
 date:   2018-03-07
-categories: religion, culture
+tags: religion, culture
+categories: blog
 ---
 
 Seven days in and March is proving to be a hectic month, full of good things, but full of things nonetheless. I haven’t allotted myself the time I normally do for ruminating. That said, I feel I ought to share/reflect on [David Zahl’s reflection](http://www.mbird.com/2018/02/the-opiates-of-the-people/) on [Andrew Sullivan’s essay on America’s opioid epidemic](http://nymag.com/daily/intelligencer/2018/02/americas-opioid-epidemic.html). Admittedly, I haven’t read Sullivan’s piece in its entirety, but DZ’s thoughts on it are worth sharing nonetheless. There are lots of gems in there, but I thought this passage especially poignant. Writing about how in our culture (and churches), we prefer to avoid addressing the real problems ailing us, he states:
