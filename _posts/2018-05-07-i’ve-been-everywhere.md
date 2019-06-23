@@ -2,7 +2,8 @@
 layout: post
 title:  I’ve been everywhere
 date:   2018-05-07
-categories: traveling, conferences
+tags: traveling, conferences
+categories: blog
 ---
 So it’s been over a month. Hello again.
 

@@ -17,8 +17,9 @@ ol,
 p,
 pre,
 ul {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    max-width:50em
 }
 /**
  * Basic styling
@@ -89,13 +90,14 @@ h4,
 h5,
 h6 {
     font-weight: $base-font-weight;
+    font-family: $title-font-family;
 }
 /**
  * Links
  */
 a {
     color: $link-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
         text-decoration: underline;
@@ -105,7 +107,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color-dark;
+    color: $text-color;
     padding-left: $spacing-unit / 2;
     border-left: 2px solid $grey-color-light;
     font-style: italic;
