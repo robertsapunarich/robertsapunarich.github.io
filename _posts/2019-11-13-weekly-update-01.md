@@ -49,3 +49,5 @@ I signed up for Disney+ and watched the first episode of _The Mandalorian_. It i
 * [Toy Story 2 At 20: Mortality And Acceptance On The Edge Of 30 - The Quietus](https://thequietus.com/articles/27425-toy-story-2-anniversary)
 * [I Am Your Pug and I Have Heard the Call of the Wild - McSweeney’s Internet Tendency](https://www.mcsweeneys.net/articles/i-am-your-pug-and-i-have-heard-the-call-of-the-wild)
 * [Ruminations: Keeping Advent in the midst of marketplace hysteria - Fleming Rutledge](http://ruminations.generousorthodoxy.org/2019/11/keeping-advent-in-midst-of-marketplace.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ruminations+%28Ruminations%29) 
+* /Update 11/16: Adding this one from Rune Soup that I forgot about/
+* [Blowing Filter Bubbles: World Without Sin](https://runesoup.com/2019/11/blowing-filter-bubbles-world-without-sin/) 
