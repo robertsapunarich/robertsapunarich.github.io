@@ -14,7 +14,7 @@ Coming from a church background where Advent is merely the weeks leading up to C
 
 Written wholly in the years since the tragic death of Nick Cave’s son in 2015, the album feels equal parts hopeful and haunted. In the first track’s outro, “Spinning Song”, Cave repeats these words,
 
-	“Peace will come, a peace will come, a peace will 	come in time
+	“Peace will come, a peace will come, a peace will come in time
 	A time will come, a time will come, a time will come for us”
 
 Which leads into the second track, “Bright Horses”, where he sings in the second verse,
