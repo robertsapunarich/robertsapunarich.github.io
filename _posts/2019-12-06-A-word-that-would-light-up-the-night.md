@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “A word that would light up the night”: Listening to Nick Cave’s “Ghosteen” in Advent
+title:  “A word that would light up the night” - Listening to Nick Cave’s “Ghosteen” in Advent
 date:   2019-12-06
 tags: music, religion, advent
 categories: blog
