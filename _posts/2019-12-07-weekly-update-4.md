@@ -2,7 +2,7 @@
 layout: post
 title:  Weekly Update 04
 date:   2019-12-07
-tags: life, reading, weekly update
+tags: life, reading, update
 categories: blog
 ---
 So I’m a day late on this one, but I did [publish a thing yesterday](https://robertsapunarich.com/blog/2019/12/06/A-word-that-would-light-up-the-night/), that the good people at [Mbird](mbird.com) will also be publishing on their space sometime early next week.

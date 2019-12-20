@@ -2,7 +2,7 @@
 layout: post
 title:  Weekly Update 01
 date:   2019-11-13
-tags: life, reading, weekly update
+tags: life, reading, update
 categories: blog
 ---
 
