@@ -11,9 +11,11 @@ layout: default
 			<ul class="post-list">
 				{% for post in site.posts %}
 				<li>
+					{% if post.title != "" %}
 					<h1>
 						<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
 					</h1>
+					{% endif %}
 					<p>{{post.content}}</p>
 				</li>
 				{% endfor %}
