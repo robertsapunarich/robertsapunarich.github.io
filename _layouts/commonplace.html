@@ -8,34 +8,20 @@ microblog_js:
 		<h1 class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
 		{% include nav.html %}
 		{% include intro.html %}
-	</section>
+  </section>
+  <script>
+
+  </script>
 	<section>
 		<ul class="post-list">
 			{% for post in site.posts %}
 			<li>
-				{% if post.title != "" %}
 				<h1>
 					<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
 				</h1>
-				{% endif %}
 				<p>{{post.content}}</p>
 			</li>
 			{% endfor %}
 		</ul>
 	</section>
 </div>
-<script type="text/javascript">
-	var load = function() {
-		url = "https://robertsapunarich.micro.blog/feed.json"
-		response = XMLHttpRequest(url).response
-
-		if (response.ok) {
-			payload = await response.json()
-
-			for (post in payload.items) {
-				console.log(post.content_html)
-			}
-		}
-	}
-</script>
-	
