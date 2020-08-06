@@ -25,17 +25,21 @@ microblog_js:
 	</section>
 </div>
 <script type="text/javascript">
-	var load = function() {
+	load = async function() {
 		url = "https://robertsapunarich.micro.blog/feed.json"
-		response = XMLHttpRequest(url).response
-
-		if (response.ok) {
-			payload = await response.json()
-
-			for (post in payload.items) {
-				console.log(post.content_html)
+		payload = await fetch(url).then((response) => {
+			return response
+		}).then((response) => {
+			if (response.ok) {
+				return(response.json())
 			}
-		}
+		}).then((data) => {
+			return data
+		})
+
+		console.log(payload)
 	}
+
+	load();
 </script>
 	
