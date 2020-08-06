@@ -9,9 +9,6 @@ microblog_js:
 		{% include nav.html %}
 		{% include intro.html %}
   </section>
-  <script>
-
-  </script>
 	<section>
 		<ul class="post-list">
 			{% for post in site.posts %}
@@ -25,3 +22,21 @@ microblog_js:
 		</ul>
 	</section>
 </div>
+<script type="text/javascript">
+	load = async function() {
+		url = "https://robertsapunarich.micro.blog/feed.json"
+		payload = await fetch(url).then((response) => {
+			return response
+		}).then((response) => {
+			if (response.ok) {
+				return(response.json())
+			}
+		}).then((data) => {
+			return data
+		})
+
+		console.log(payload)
+	}
+
+	load();
+</script>
