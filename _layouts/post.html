@@ -1,5 +1,7 @@
 ---
 layout: default
+microblog_js: 
+  - microblog.js
 ---
 <section class="site-header">
   <h1 class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
@@ -37,3 +39,8 @@ layout: default
     {% include disqus.html %}
   {% endif %}
 </article>
+{% for js in page.jsarr %}
+  <script type="text/javascript">
+    {% include {{ js }} %}
+  </script>
+{% endfor %}

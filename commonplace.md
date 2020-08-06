@@ -1,0 +1,4 @@
+---
+layout: commonplace
+title: Commonplace
+---
