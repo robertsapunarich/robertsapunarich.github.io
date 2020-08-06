@@ -10,15 +10,7 @@ microblog_js:
 		{% include intro.html %}
   </section>
 	<section>
-		<ul class="post-list">
-			{% for post in site.posts %}
-			<li>
-				<h1>
-					<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-				</h1>
-				<p>{{post.content}}</p>
-			</li>
-			{% endfor %}
+		<ul id='micropost-list' class="post-list">
 		</ul>
 	</section>
 </div>
@@ -36,7 +28,19 @@ microblog_js:
 		})
 
 		console.log(payload)
+		return payload
 	}
 
-	load();
+	load().then((data) => {
+		const post_list = document.querySelector("#micropost-list")
+		console.log(data)
+		data.items.map((item) => {
+				console.log(item)
+				list_item = document.createElement('li')
+				post_list.appendChild(list_item)
+				list_item.innerHTML = item.content_html
+			}
+		) 
+	}
+	);
 </script>
