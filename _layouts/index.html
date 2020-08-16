@@ -5,22 +5,33 @@ microblog_js:
 ---
 <div class="home">
 	<section class="site-header">
-		<h1 class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
 		{% include nav.html %}
-		{% include intro.html %}
 	</section>
 	<section>
-		<ul class="post-list">
-			{% for post in site.posts %}
-			<li>
-				{% if post.title != "" %}
-				<h1>
-					<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-				</h1>
-				{% endif %}
-				<p>{{post.content}}</p>
-			</li>
-			{% endfor %}
-		</ul>
+		Hi,
+		<br />
+		<br />
+		My name's Robbie. I'm a software developer and writer based in Charlottesville, VA. This is my home on the web. I'm currently in the midst of redesigning this site, so things might get shuffled around, 
+		but I'll do my best to make it navigable.
+		<br />
+		<br />
+		<b>My microblog</b>, where I post pictures, links, shortform thoughts, and miscellanea, can be found <a href="{{site.baseurl}}/microblog">here</a>.
+		It's hosted by <a href="https://micro.blog">Microblog</a>, and syndicated on this site. You can subscribe to the RSS feed <a href="https://robertsapunarich.micro.blog/feed.xml">here</a>.
+		<br />
+		<br />
+		<b>My personal blog</b> contains longer-form writing. Whenever I publish something, I'll link to it via my microblog. You can view it <a href="{{site.baseurl}}/blog">here</a>
+		and subscribe <a href="{{site.baseurl}}/feed.xml">here</a>.
+		<br />
+		<br />
+		Links to <b>my writing published elsewhere</b> can be found <a href="">here</a>.
+		<br />
+		<br />
+		<b>My resume</b> can be found <a href="">here</a>.
+		<br />
+		<br />
+		I don't maintain any social media (other than a rarely touched private Instagram). If you'd like to get in touch, I can be reached at robertsapunarich @ gmail dot com.
+		<br />
+		<br />
+		As this is my personal space, any thoughts I publish here or elsewhere are solely mine, and do not express those of any employer or institution with which I am affiliated.
 	</section>
 </div>
